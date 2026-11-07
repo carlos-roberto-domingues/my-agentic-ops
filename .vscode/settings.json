@@ -1,0 +1,13 @@
+{
+  "chat.useAgentsMdFile": true,
+  "chat.useNestedAgentsMdFiles": true,
+  "chat.customAgentInSubagent.enabled": true,
+  "chat.agentFilesLocations": {
+    ".github/agents": true
+  },
+  "chat.agentSkillsLocations": {
+    ".github/skills": true
+  },
+  "chat.useAgentSkills": true,
+  "python.terminal.useEnvFile": true
+}
